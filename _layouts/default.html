@@ -7,15 +7,14 @@
     <link rel="stylesheet" href="https://bootswatch.com/4/pulse/bootstrap.css">
     <title>{{ page.title }}</title>
 
-
     <script type="text/javascript">
-        (function(j,u,k,e,b,o,x){j[b]=j[b]||function(){
-        (j[b].q=j[b].q||[]).push(arguments)},j[b].l=1*new Date();o=u.createElement(k),
-        x=u.getElementsByTagName(k)[0];o.async=1;o.src=e;x.parentNode.insertBefore(o,x)
-        })(window,document,'script','http://buzzdata.local:8080/jukebox.js','lbhq');
-          lbhq('create', 'LB-52548E68-1');
-          lbhq('_env', 'development');
-      </script>
+      (function(j,u,k,e,b,o,x){j["pfObject"]=b;j[b]=j[b]||function(){
+      (j[b].q=j[b].q||[]).push(arguments)},j[b].l=1*new Date();o=u.createElement(k),
+      x=u.getElementsByTagName(k)[0];o.async=1;o.src=e;x.parentNode.insertBefore(o,x)
+      })(window,document,'script', "http://buzzdata.local:8080/jukebox.js" ,"pf");
+        pf('create', 'LB-52548E68-1');
+        pf('_env', 'development');
+    </script>
 </head>
 
 <body>
@@ -31,11 +30,12 @@
         </nav>
     </header>
 
+    <div style="display: block;height: 5px;width: auto;background-color: rgb(255, 145, 0);"></div>
+    <div id="website_tools"></div>
+    <div style="display: block;height: 5px;width: auto;background-color: rgb(255, 145, 0);"></div>
 
     {{ content }}
 
-    <div style="display: block;height: 10px;width: auto;background-color: aqua;"></div>
-    <div id="website_tools"></div>
     <footer>
         <a href="https://github.com/prasannaboga/static-blog">https://github.com/prasannaboga/static-blog</a>
     </footer>
