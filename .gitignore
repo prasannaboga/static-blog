@@ -5,3 +5,4 @@ _site
 vendor
 /.history
 .idea/
+.DS_Store
