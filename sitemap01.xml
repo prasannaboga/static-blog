@@ -1,1 +1,29 @@
-aa
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
+    <url>
+        <loc>https://blog.atomicreach.com/hubfs/Whitepapers%20-%20Atomic%20Reach/Whitepaper%20-%20Content%20Intelligence:%20The%20Formula%20You%20Need%20To%20Propel%20Your%20Content.pdf</loc>
+        <lastmod>2022-04-21T06:43:37+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.stc.org/roundtable/wp-content/uploads/sites/34/2019/08/cs_Content_Intelligence_whitepaper_STC.pdf</loc>
+        <lastmod>2022-04-21T06:43:37+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://nirvauk.com/wp-content/uploads/The-Content-Intelligence-Revolution-Part-1.pdf</loc>
+        <lastmod>2022-04-21T06:43:37+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://vimeo.com/585198751</loc>
+        <lastmod>2022-04-21T06:43:37+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://vimeo.com/559363158</loc>
+        <lastmod>2022-04-21T06:43:37+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+</urlset>
